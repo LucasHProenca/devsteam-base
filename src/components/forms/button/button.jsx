@@ -1,8 +1,8 @@
 import styles from './button.module.css'
 
-const Button = ({children, fullwidth}) => {
+const Button = ({children, fullwidth, ...props}) => {
     return(
-        <button className={`${styles.button} ${fullwidth && styles.fullwidth}`}>{children}</button>
+        <button className={`${styles.button} ${fullwidth && styles.fullwidth}`} {...props}>{children}</button>
     )
 }
 

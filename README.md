@@ -17,10 +17,10 @@
 
  
 📟 DevSteam - A [Devsteam](https://devsteam-base.vercel.app/) foi desenvolvida baseada numa famosa plataforma de games, possibilitando ao usuário uma interface simples e direta para compra de seus jogos favoritos.
-Apesar de simples, o intuito desse projeto foi trabalhar pela primeira vez com a tecnologia [Next.js](https://devsteam-base.vercel.app/)
+Apesar de simples, o intuito desse projeto foi trabalhar pela primeira vez com a tecnologia [Next.js](https://nextjs.org/)
 Este projeto possui algumas funcionalidades, as quais detalharemos mais adiante.
 
-Projeto desenvolvido durante o **Curso Seja Dev** da [SejaDev](https://nextjs.org/).
+Projeto desenvolvido durante o **Curso Seja Dev** da [SejaDev](https://lp.seja.dev/lista-de-espera).
 
 ---
 
@@ -86,13 +86,8 @@ Em breve estaremos adicionando mais produtos e funcionalidades a loja.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### ([API](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)  +  [React](https://react.dev/))
-
--   **[React Router](https://reactrouter.com/en/main)**
--   **[React Context](https://legacy.reactjs.org/docs/context.html)**
--   **[Styled-components](https://styled-components.com/)**
--   **[Axios](https://axios-http.com/ptbr/docs/intro)**
--   **[Estado Global](https://coderpad.io/blog/development/global-state-management-react/)**
+-   **[Next.js](https://nextjs.org/)**
+-   **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
 ---
 

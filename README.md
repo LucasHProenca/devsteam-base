@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github.com/LucasHProenca/devsteam-base/assets/106993403/9c7fee64-5fb3-4671-8cdb-948c2bab7fc7
-" alt="" />
+<img src="https://github.com/LucasHProenca/devsteam-base/assets/106993403/9c7fee64-5fb3-4671-8cdb-948c2bab7fc7" alt="" />
 </div>
 
 ---

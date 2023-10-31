@@ -48,10 +48,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone link-do-repositório-git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Labeddit-frontend
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nome-do-seu-app
+$ cd devsteam-base
 
 # Para abrir o vsCode
 $ code .
@@ -61,8 +58,6 @@ $ npm install
 
 # Execute a aplicação
 $ npm run start
-
-# O servidor inciará na porta:3000 
 
 ```
 
